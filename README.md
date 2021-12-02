@@ -1,6 +1,6 @@
 ## Olá, Mundo! Eu sou a Amanda Camelo Desenvolvedora Front-End e amante da tecnologia!
 
-- 👩‍💻 Hoje trabalho com front-end
+- 👩‍💻 Dev front-end
 - 📚 Estudando: HTML/CSS/JAVASCRIPT
 - 📍 Recife - PE
 
