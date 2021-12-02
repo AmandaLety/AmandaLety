@@ -1,4 +1,4 @@
-## Olá, Mundo! Eu sou a Amanda Camelo Desenvolvedora Front-End e amante da tecnologia!
+## Olá, Mundo! Eu sou a Amanda Camelo, desenvolvedora Front-End e amante da tecnologia!
 
 - 👩‍💻 Dev front-end
 - 📚 Estudando: HTML/CSS/JAVASCRIPT
