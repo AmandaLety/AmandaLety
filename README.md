@@ -1,12 +1,12 @@
-## Olá, Mundo! Eu sou a Amanda Camelo
+## Olá, Mundo! Eu sou a Amanda Camelo Desenvolvedora Front-End e amante da tecnologia!
 
 - 👩‍💻 Hoje trabalho com front-end
 - 📚 Estudando: HTML/CSS/JAVASCRIPT
 - 📍 Recife - PE
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandalety&theme=radical&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalety&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandalety&theme=radical&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalety&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
