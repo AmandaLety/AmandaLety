@@ -5,7 +5,7 @@
 - 📍 Recife - PE
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandalety&theme=radical&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandalety&theme=radical&show_icons=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalety&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
