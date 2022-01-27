@@ -1,7 +1,7 @@
 ## Olá, Mundo! Eu sou a Amanda Letícia, desenvolvedora Front-End e amante da tecnologia!
 
 - 👩‍💻 Dev front-end
-- 📚 Estudando: HTML/CSS/JAVASCRIPT
+- 📚 Estudando: HTML/CSS/JAVASCRIPT/AZ-900
 - 📍 Recife - PE
 
 <div align="center">
