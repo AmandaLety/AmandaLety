@@ -1,7 +1,7 @@
-## Olá, Mundo! Eu sou a Amanda Letícia, desenvolvedora Front-End e amante da tecnologia!
+## Olá, Mundo! Eu sou a Amanda Letícia, desenvolvedora Full-Stack e amante da tecnologia!
 
-- 👩‍💻 Dev front-end
-- 📚 Estudando: HTML/CSS/JAVASCRIPT
+- 👩‍💻 Dev FULL-STACK
+- 📚 Estudando: HTML/CSS/JAVASCRIPT/C#
 - 📚 Certificada Microsoft - AZ-900
 - 📍 Recife - PE
 
