@@ -5,18 +5,6 @@
 - 📚 Certificada Microsoft - AZ-900
 - 📍 Recife - PE
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandalety&theme=radical&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalety&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-     src="https://i.picasion.com/pic91/47d4c1f2968b384e494a4c52eb57cda3.gif">
 
 ##
 <div>
